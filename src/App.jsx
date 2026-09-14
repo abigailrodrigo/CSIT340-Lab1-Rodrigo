@@ -30,7 +30,7 @@ function App() {
         <br />
         Year level: Third year
         <br />
-        Hometown: Minglanilla City, Cebu
+        Hometown: Minglanilla, Cebu
       </p>
     </section>
 
